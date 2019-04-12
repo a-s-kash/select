@@ -213,7 +213,6 @@ var MainSearchShortFormFunctions2 = {
 
     load_settings: function (dataElements) {
 
-        // dataElements.amount.content.addClass('tourists-amount__content');
         dataElements.amount.counter.addClass('tourists-amount__adults-counter');
         dataElements.amount.plus.html('+');
         dataElements.amount.minus.html('-');
